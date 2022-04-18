@@ -398,7 +398,6 @@
     "nav2": "[2] Sneak past the ghouls, towards the lit hallway",
     "nav3": "[3] Sneak past the ghouls along the dark and dusty path",
     "nav4": "[4] Try to sneak past the ghouls and enter the door.",
-    "nav5": "[4] Enter the door while the ghouls are gone.",
     "win": 0,
     "lose": 0,
     "trap": 0,
