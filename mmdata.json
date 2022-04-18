@@ -57,7 +57,7 @@
     "c3": 6,
     "c4": 1,
     "visit": 0,
-    "story": "The bartender, Yorn, greets you with a hearty \"Hello!\"\nAs you approach him, he begins to speak...\n\"Welcome to the Yawning Portal! You must be interested in exploring the Dungeon of the Mad Mage. I charge 1 gold per person to proceed down the entrance.\nYou can also visit the shop or rest in one of the rooms.",
+    "story": "The bartender, Yorn, greets you with a hearty \"Hello!\"\nAs you approach him, he begins to speak...\n\"Welcome to the Yawning Portal! You must be interested in exploring the Dungeon of the Mad Mage. I charge 1 gold per person to proceed down the entrance.\nYou can also visit the shop, or rest in one of the rooms for 5 gold.",
     "story2": "",
     "story3": "",
     "nav1": "[1] Go to the shop",
