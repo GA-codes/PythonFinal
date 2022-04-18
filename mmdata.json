@@ -589,7 +589,7 @@
     "nav2": "[2] Walk towards the lit hallway",
     "nav3": "[3] Walk along the dark and dusty path",
     "nav4": "[4] Enter the red door while the ghouls are gone.",
-    "nav5": "",
+    "nav5": "[4] Enter the red door while the ghouls are gone.",
     "win": 0,
     "lose": 0,
     "trap": 0,
